@@ -6,4 +6,4 @@ A case study for the University of Alberta (Fall 2020)
 
 ![](images/Capture3.PNG)
 
-Special Thanks to [MuriRokcs](https://github.com/MuriRokcs) who helped out with the web scrapper !
+## Special Thanks to [MuriRokcs](https://github.com/MuriRokcs) who helped out with the web scrapper !
