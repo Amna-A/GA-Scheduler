@@ -1,4 +1,4 @@
-# University Class Scheduling Using Genetic Algorithm
+# University Class Scheduling Using Genetic Algorithm  ![Visitor Count](https://profile-counter.glitch.me/{Amna-A}/count.svg)
 
 A case study for the University of Alberta (Fall 2020)
 
