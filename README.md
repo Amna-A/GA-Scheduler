@@ -1,4 +1,4 @@
-# University Class Scheduling Using Genetic Algorithm  
+# University Class Scheduling Using Genetic Algorithm  [![HitCount](http://hits.dwyl.com/{Amna-A}/{GeneticAlgorithm}.svg)](http://hits.dwyl.com/{Amna-A}/{GeneticAlgorithm})
 
 A case study for the University of Alberta (Fall 2020) :nerd_face:
 
