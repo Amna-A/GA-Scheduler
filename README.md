@@ -2,6 +2,8 @@
 
 A case study for the University of Alberta (Fall 2020) :nerd_face:
 
+A very quick and efficient (and easily modified for your needs) class scheduler
+
 ## Visitors to the repository
 
 ![Visitor Count](https://profile-counter.glitch.me/{Amna-A}/count.svg)
